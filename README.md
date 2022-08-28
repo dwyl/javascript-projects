@@ -22,8 +22,8 @@ experiences for codenewbies (beginners) and developers in the `JAVASCRIPT` progr
 <strong> Javascript Codes</strong>
 </summary>
     <ul>
-        <li><a href="https://github.com/chryz-hub/js-projects/tree/master/all-javascript-codes/password-generator">Password-Generator</a>
+        <li><a href="https://github.com/dwyl/javascript-projects/tree/master/all-javascript-codes/password-generator">Password-Generator</a>
         <li><a href="./all-javascript-codes/background_generator/README.md">Background-Generator   </a></li>
-        <li><a href="https://github.com/chryz-hub/js-projects/tree/master/all-javascript-codes/Filter_Functionality_Javascript">Filter-Functionality-Javascript</a>
+        <li><a href="https://github.com/dwyl/javascript-projects/tree/master/all-javascript-codes/Filter_Functionality_Javascript">Filter-Functionality-Javascript</a>
    </ul>
 </details>
