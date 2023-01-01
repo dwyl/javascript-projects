@@ -1,0 +1,29 @@
+body {
+    background: #333;
+    color: #ddd;
+    text-align: center;
+}
+
+canvas {
+    background: grey;
+    border: 2px solid black;
+}
+
+input {
+    width: 3em;
+}
+
+table, tr,td {
+    border: 1px solid;
+}
+
+table {
+    min-width: 200px;
+    text-align: left;
+    margin: auto;
+    margin-top: 5px;
+}
+
+td {
+    padding: 3px;
+}
